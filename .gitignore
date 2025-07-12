@@ -1,0 +1,7 @@
+.env
+venv/
+.deepeval/.deepeval_telemetry.txt
+deepeval/.deepeval/.deepeval_telemetry.txt
+deepeval/.deepeval/.deepeval-cache.json
+deepeval/.deepeval/.deepeval
+.DS_Store
