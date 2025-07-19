@@ -1,0 +1,3 @@
+Summary: Testing a WebSocket app requires a different approach than web apps. 
+You need to check that clients can connect without any problem. 
+Check that the messages contains all the information.
